@@ -1,0 +1,23 @@
+{
+  "name": "aprendiendo-frontend-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx parcel -p 3000 watch src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davecarter/aprendiendo-frontend-site.git"
+  },
+  "author": "David G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davecarter/aprendiendo-frontend-site/issues"
+  },
+  "homepage": "https://github.com/davecarter/aprendiendo-frontend-site#readme",
+  "dependencies": {
+    "parcel-bundler": "1.11.0"
+  }
+}
